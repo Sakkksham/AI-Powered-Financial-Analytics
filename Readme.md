@@ -554,43 +554,45 @@ AI Application Interface
 
 The project helped demonstrate how an analyst can move beyond static reporting and build systems where users can interact with data using natural language.
 
-## 📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 
-### 1. Executive Overview
+## 1. Executive Overview
 
-![Executive Overview](IMAGES/Executive%20dashboard.png)
+![Executive Overview](IMAGES/executive_dashboard.png)
 
-### 2. Company Analysis
+## 2. Company Analysis
 
-![Company Analysis](IMAGES/Company%20Analysis%20dashboard.png)
+![Company Analysis](IMAGES/company_analysis_dashboard.png)
 
-### 3. Company Comparison
+## 3. Company Comparison
 
-![Company Comparison](IMAGES/Company%20Comparision%20dashboard.png)
+![Company Comparison](IMAGES/company_comparison_dashboard.png)
 
-### 4. Sector & Market Analysis
+## 4. Sector & Market Analysis
 
-![Sector & Market Analysis](IMAGES/SECTOR%20%26%20MARKET%20ANALYSIS%20Dashboard.png)
+![Sector & Market Analysis](IMAGES/sector_market_analysis_dashboard.png)
 
-### 5. Growth, Stock Performance & Cash Flow
+## 5. Growth, Stock Performance & Cash Flow
 
-![Growth, Stock Performance & Cash Flow](IMAGES/Growth%2C%20Stock%20Performance%20%26%20Cash%20Flow%20Dashboard.png)
+![Growth, Stock Performance & Cash Flow](IMAGES/growth_stock_performance_cash_flow_dashboard.png)
 
 ---
 
-## 🤖 AI Analyst
+# 🤖 AI Analyst
 
-### Streamlit Frontend
+## Streamlit Frontend
 
-![AI Analyst Frontend](IMAGES/frontend%20UI.png)
+![AI Analyst Frontend](IMAGES/frontend_ui.png)
 
-### FastAPI Backend
+## FastAPI Backend
 
-![FastAPI Backend](IMAGES/Screenshot%202026-09-03%20140511.png)
+![FastAPI Backend](IMAGES/fastapi_backend.png)
 
-### AI Tool Calling
+## AI Tool Calling
 
-![AI Tool Calling](IMAGES/Screenshot%202026-09-03%20140557.png)
+
+
+![AI Tool Calling](IMAGES/ai_tool_calling.png)
 
 ⚠️ Disclaimer
 
