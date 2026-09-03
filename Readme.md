@@ -558,37 +558,39 @@ The project helped demonstrate how an analyst can move beyond static reporting a
 
 ### 1. Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Executive%20dashboard.png)
+![Executive Overview](IMAGES/Executive%20dashboard.png)
 
 ### 2. Company Analysis
 
-![Company Analysis](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Company%20Analysis%20dashboard.png)
+![Company Analysis](IMAGES/Company%20Analysis%20dashboard.png)
 
 ### 3. Company Comparison
 
-![Company Comparison](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Company%20Comparision%20dashboard.png)
+![Company Comparison](IMAGES/Company%20Comparision%20dashboard.png)
 
 ### 4. Sector & Market Analysis
 
-![Sector & Market Analysis](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/SECTOR%20%26%20MARKET%20ANALYSIS%20Dashboard.png)
+![Sector & Market Analysis](IMAGES/SECTOR%20%26%20MARKET%20ANALYSIS%20Dashboard.png)
 
 ### 5. Growth, Stock Performance & Cash Flow
 
-![Growth, Stock Performance & Cash Flow](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Growth%2C%20Stock%20Performance%20%26%20Cash%20Flow%20Dashboard.png)
+![Growth, Stock Performance & Cash Flow](IMAGES/Growth%2C%20Stock%20Performance%20%26%20Cash%20Flow%20Dashboard.png)
+
+---
 
 ## 🤖 AI Analyst
 
 ### Streamlit Frontend
 
-![AI Analyst Frontend](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/frontend%20UI.png)
+![AI Analyst Frontend](IMAGES/frontend%20UI.png)
 
 ### FastAPI Backend
 
-![FastAPI Backend](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Screenshot%202026-09-03%20140511.png)
+![FastAPI Backend](IMAGES/Screenshot%202026-09-03%20140511.png)
 
 ### AI Tool Calling
 
-![AI Tool Calling](https://raw.githubusercontent.com/Sakkksham/AI-Powered-Financial-Analytics/main/IMAGES/Screenshot%202026-09-03%20140557.png)
+![AI Tool Calling](IMAGES/Screenshot%202026-09-03%20140557.png)
 
 ⚠️ Disclaimer
 
