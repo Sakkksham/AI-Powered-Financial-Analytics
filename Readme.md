@@ -557,31 +557,38 @@ The project helped demonstrate how an analyst can move beyond static reporting a
 ## 📊 Power BI Dashboard
 
 ### 1. Executive Overview
-![Executive Overview](IMAGES/Executive dashboard.png)
+
+![Executive Overview](IMAGES/Executive%20dashboard.png)
 
 ### 2. Company Analysis
-![Company Analysis](IMAGES/Company Analysis dashboard.png)
+
+![Company Analysis](IMAGES/Company%20Analysis%20dashboard.png)
 
 ### 3. Company Comparison
-![Company Comparison](IMAGES/Company Comparison dashboard.png)
+
+![Company Comparison](IMAGES/Company%20Comparision%20dashboard.png)
 
 ### 4. Sector & Market Analysis
-![Sector & Market Analysis](IMAGES/SECTOR & MARKET ANALYSIS Dashboard.png)
+
+![Sector & Market Analysis](IMAGES/SECTOR%20%26%20MARKET%20ANALYSIS%20Dashboard.png)
 
 ### 5. Growth, Stock Performance & Cash Flow
-![Growth, Stock Performance & Cash Flow](IMAGES/Growth, Stock Performance & Cash Flow Dashboard.png)
+
+![Growth, Stock Performance & Cash Flow](IMAGES/Growth%2C%20Stock%20Performance%20%26%20Cash%20Flow%20Dashboard.png)
 
 ## 🤖 AI Analyst
 
 ### Streamlit Frontend
-![AI Analyst Frontend](IMAGES/frontend UI.png)
 
-### Backend API
-![Backend API](IMAGES/Screenshot 2026-09-03 140511.png)
+![AI Analyst Frontend](IMAGES/frontend%20UI.png)
+
+### FastAPI Backend
+
+![FastAPI Backend](IMAGES/Screenshot%202026-09-03%20140511.png)
 
 ### AI Tool Calling
-![AI Tool Calling](IMAGES/Screenshot 2026-09-03 140557.png)
 
+![AI Tool Calling](IMAGES/Screenshot%202026-09-03%20140557.png)
 ⚠️ Disclaimer
 
 This project is intended for educational, analytical, and portfolio purposes.
