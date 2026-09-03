@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.52.4
+google-genai==2.21.0
+pandas
+mysql-connector-python
+python-dotenv
